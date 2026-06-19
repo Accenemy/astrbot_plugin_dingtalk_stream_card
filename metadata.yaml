@@ -1,0 +1,10 @@
+name: astrbot_plugin_dingtalk_stream_card
+display_name: 钉钉流式卡片
+desc: 注册一个支持钉钉互动 AI 卡片流式回复的平台适配器。
+short_desc: 钉钉互动 AI 卡片流式回复适配器。
+version: 0.2.0
+author: acc
+repo: https://github.com/Accenemy/astrbot_plugin_dingtalk_stream_card
+support_platforms:
+  - dingtalk
+astrbot_version: ">=4.20,<5"
